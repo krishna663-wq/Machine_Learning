@@ -1,3 +1,24 @@
+
+## Crop Production Application
+You can view and run the Crop Production Application notebook on Google Colab using the following link: Crop_Production_applicationofMl.ipynb
+
+## Overview
+This notebook focuses on analyzing and predicting crop production based on historical data.
+
+## Methodology
+** Data Import and Exploration: Load and explore the dataset crop_production.csv.
+** Data Cleaning: Handle missing values appropriately.
+** Feature Selection and Splitting: Select features Area and Production, and split the dataset into training and testing sets.
+** Model Training: Train a Linear Regression model using the training data.
+**Prediction and Evaluation: Use the model to predict crop production on the test data and calculate the Mean Squared Error (MSE).
+Results
+## The model's performance is evaluated using the Mean Squared Error (MSE).
+
+
+
+
+
+
 # Sentiment Analysis with Machine Learning
 
 ## Sentiment Analysis Notebook
